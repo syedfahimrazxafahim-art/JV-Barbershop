@@ -1,0 +1,6 @@
+{
+  "name": "JV Barbershop",
+  "description": "Luxury Vintage Barbershop in Los Angeles, California. Experience precision cuts, taper fades, and traditional grooming in an immersive matte black aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
